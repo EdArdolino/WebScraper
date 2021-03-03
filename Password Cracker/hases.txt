@@ -1,0 +1,6 @@
+Some example hases to use with the password cracker
+
+0d107d09f5bbe40cade3de5c71e9e9b7
+d1de459d7939792b14638cf06dcf2fca
+9e1562255e5ac959fdfa08ba854a73cc
+15010a64b4e4cb24d5d64f51bbca1286
